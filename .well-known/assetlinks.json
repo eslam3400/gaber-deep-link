@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.taahd.quran",
+      "sha256_cert_fingerprints": [
+        "88:78:AC:30:9E:A6:3F:D9:9E:04:C9:DB:DD:AC:45:C1:74:B1:13:A3:CD:BC:20:56:52:3E:82:89:48:0B:8C:EB"
+      ]
+    }
+  }
+]
